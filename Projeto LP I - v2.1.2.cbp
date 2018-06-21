@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projeto LP I - v2.1.2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projeto LP I - v2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projeto LP I - v2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Abertura.cpp" />
+		<Unit filename="Abertura.h" />
+		<Unit filename="Barreira.cpp" />
+		<Unit filename="Barreira.h" />
+		<Unit filename="Bomba.cpp" />
+		<Unit filename="Bomba.h" />
+		<Unit filename="Circulo.cpp" />
+		<Unit filename="Circulo.h" />
+		<Unit filename="Execute_Game.h" />
+		<Unit filename="Fase_1.h" />
+		<Unit filename="FimDoJogo.h" />
+		<Unit filename="GameObject.cpp" />
+		<Unit filename="GameObject.h" />
+		<Unit filename="GameObjectList.cpp" />
+		<Unit filename="GameObjectList.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Monstro.h" />
+		<Unit filename="No.cpp" />
+		<Unit filename="No.h" />
+		<Unit filename="Personagem.h" />
+		<Unit filename="Pesonagem.cpp" />
+		<Unit filename="Retangulo.cpp" />
+		<Unit filename="Retangulo.h" />
+		<Unit filename="define_allegro.cpp" />
+		<Unit filename="define_allegro.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="teclado_down_up.h" />
+		<Unit filename="teclado_key_down_up.cpp" />
+		<Unit filename="teclado_key_down_up.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

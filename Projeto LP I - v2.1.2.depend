@@ -1,0 +1,1621 @@
+# depslib dependency file v1.0
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\abertura.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Abertura.h"
+
+1434340528 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\abertura.h
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\audio.cpp
+
+1434296630 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\barreira.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Barreira.h"
+
+1434251040 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\gameobject.h
+
+1434340529 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\retangulo.h
+
+1434267816 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\barreira.h
+
+1433134788 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\circulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Circulo.h"
+
+1433134550 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\circulo.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\define_allegro.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+
+1434339048 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\define_allegro.h
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\abertura.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Abertura.h"
+
+1434340528 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\abertura.h
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\audio.cpp
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\barreira.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Barreira.h"
+
+1434439543 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\gameobject.h
+	<string>
+
+1434340529 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\retangulo.h
+
+1434267816 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\barreira.h
+
+1433134788 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\circulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Circulo.h"
+
+1433134550 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\circulo.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\define_allegro.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+
+1434339048 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\define_allegro.h
+
+1434344171 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\fasegame.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"FaseGame.h"
+	"Fase_1.h"
+
+1434441521 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\personagem.h
+	"Bomba.h"
+
+1434312612 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\fasegame.h
+
+1434251684 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\gameobject.cpp
+	<iostream>
+	<string>
+	"GameObject.h"
+
+1434295986 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\gameobjectlist.cpp
+	<iostream>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"GameObject.h"
+	"No.h"
+	"Retangulo.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"GameObjectList.h"
+
+1434104728 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\no.h
+
+1434439521 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\gameobjectlist.h
+	"GameObject.h"
+
+1434446602 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+	"teclado_key_down_up.h"
+	"teclado_down_up.h"
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Circulo.h"
+	"Bomba.h"
+	"Personagem.h"
+	"Barreira.h"
+	"Fase_1.h"
+	"Menu.h"
+	"Abertura.h"
+
+1434409249 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\teclado_key_down_up.h
+
+1434438675 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\teclado_down_up.h
+
+1434339220 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\menu.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\menu.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"Menu.h"
+
+1432650894 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\no.cpp
+	<iostream>
+	"GameObject.h"
+	"No.h"
+
+1434441521 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\pesonagem.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Personagem.h"
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\retangulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+
+1434409248 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\teclado_key_down_up.cpp
+	<iostream>
+	"teclado_key_down_up.h"
+
+1434396527 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\fase_1.h
+
+1434445682 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\bomba.cpp
+	<iostream>
+	<string>
+	"Bomba.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434444474 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.2\bomba.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\abertura.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Abertura.h"
+
+1434340528 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\abertura.h
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\audio.cpp
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\barreira.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Barreira.h"
+
+1434439543 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\gameobject.h
+	<string>
+
+1434340529 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\retangulo.h
+
+1434267816 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\barreira.h
+
+1434449212 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\bomba.cpp
+	<iostream>
+	<string>
+	"Bomba.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434444474 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\bomba.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1433134788 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\circulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Circulo.h"
+
+1433134550 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\circulo.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\define_allegro.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+
+1434339048 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\define_allegro.h
+
+1434251684 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\gameobject.cpp
+	<iostream>
+	<string>
+	"GameObject.h"
+
+1434295986 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\gameobjectlist.cpp
+	<iostream>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"GameObject.h"
+	"No.h"
+	"Retangulo.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"GameObjectList.h"
+
+1434104728 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\no.h
+
+1434449868 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\personagem.h
+	"Bomba.h"
+
+1434439521 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\gameobjectlist.h
+	"GameObject.h"
+
+1434471370 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+	"teclado_key_down_up.h"
+	"teclado_down_up.h"
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Circulo.h"
+	"Bomba.h"
+	"Personagem.h"
+	"Barreira.h"
+	"Fase_1.h"
+	"Menu.h"
+	"Abertura.h"
+
+1434409249 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\teclado_key_down_up.h
+
+1434438675 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\teclado_down_up.h
+
+1434396527 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\fase_1.h
+
+1434339220 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\menu.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\menu.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"Menu.h"
+
+1432650894 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\no.cpp
+	<iostream>
+	"GameObject.h"
+	"No.h"
+
+1434449868 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\pesonagem.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Personagem.h"
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\retangulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+
+1434409248 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.3\teclado_key_down_up.cpp
+	<iostream>
+	"teclado_key_down_up.h"
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\abertura.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Abertura.h"
+
+1434340528 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\abertura.h
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\audio.cpp
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\barreira.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Barreira.h"
+
+1434439543 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\gameobject.h
+	<string>
+
+1434340529 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\retangulo.h
+
+1434267816 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\barreira.h
+
+1434449212 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\bomba.cpp
+	<iostream>
+	<string>
+	"Bomba.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434444474 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\bomba.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434476878 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\circulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Circulo.h"
+
+1433134550 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\circulo.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\define_allegro.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+
+1434339048 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\define_allegro.h
+
+1434251684 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\gameobject.cpp
+	<iostream>
+	<string>
+	"GameObject.h"
+
+1434478363 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+	"teclado_key_down_up.h"
+	"teclado_down_up.h"
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Circulo.h"
+	"Bomba.h"
+	"Personagem.h"
+	"Barreira.h"
+	"Fase_1.h"
+	"Menu.h"
+	"Abertura.h"
+
+1434409249 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\teclado_key_down_up.h
+
+1434438675 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\teclado_down_up.h
+
+1434104728 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\no.h
+
+1434479878 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\gameobjectlist.h
+	"GameObject.h"
+
+1434449868 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\personagem.h
+	"Bomba.h"
+
+1434396527 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\fase_1.h
+
+1434339220 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\menu.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\menu.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"Menu.h"
+
+1432650894 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\no.cpp
+	<iostream>
+	"GameObject.h"
+	"No.h"
+
+1434449868 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\pesonagem.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Personagem.h"
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\retangulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+
+1434409248 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\teclado_key_down_up.cpp
+	<iostream>
+	"teclado_key_down_up.h"
+
+1434478269 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.4\gameobjectlist.cpp
+	<iostream>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"GameObject.h"
+	"No.h"
+	"Circulo.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"GameObjectList.h"
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\abertura.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Abertura.h"
+
+1434340528 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\abertura.h
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\barreira.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Barreira.h"
+
+1434439543 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\gameobject.h
+	<string>
+
+1434340529 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\retangulo.h
+
+1434267816 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\barreira.h
+
+1434449212 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\bomba.cpp
+	<iostream>
+	<string>
+	"Bomba.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434444474 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\bomba.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434476878 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\circulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Circulo.h"
+
+1433134550 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\circulo.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\define_allegro.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+
+1434339048 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\define_allegro.h
+
+1434251684 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\gameobject.cpp
+	<iostream>
+	<string>
+	"GameObject.h"
+
+1434482783 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\gameobjectlist.cpp
+	<iostream>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"GameObject.h"
+	"No.h"
+	"Circulo.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"GameObjectList.h"
+
+1434104728 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\no.h
+
+1434482188 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\personagem.h
+	"Bomba.h"
+
+1434479878 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\gameobjectlist.h
+	"GameObject.h"
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\menu.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"Menu.h"
+
+1434339220 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\menu.h
+
+1432650894 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\no.cpp
+	<iostream>
+	"GameObject.h"
+	"No.h"
+
+1434482188 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\pesonagem.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Personagem.h"
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\retangulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+
+1434409248 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\teclado_key_down_up.cpp
+	<iostream>
+	"teclado_key_down_up.h"
+
+1434409249 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\teclado_key_down_up.h
+
+1434482299 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+	"teclado_key_down_up.h"
+	"teclado_down_up.h"
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Circulo.h"
+	"Bomba.h"
+	"Personagem.h"
+	"Barreira.h"
+	"Fase_1.h"
+	"Menu.h"
+	"Abertura.h"
+
+1434438675 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\teclado_down_up.h
+
+1434396527 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\wendel email - 15-06 v2.1.2\projeto lp i - v2.1.5\fase_1.h
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\abertura.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Abertura.h"
+
+1434340528 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\abertura.h
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\barreira.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Barreira.h"
+
+1434439543 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\gameobject.h
+	<string>
+
+1434340529 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\retangulo.h
+
+1434267816 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\barreira.h
+
+1434449212 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\bomba.cpp
+	<iostream>
+	<string>
+	"Bomba.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434444474 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\bomba.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434476878 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\circulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Circulo.h"
+
+1433134550 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\circulo.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\define_allegro.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+
+1434339048 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\define_allegro.h
+
+1434251684 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\gameobject.cpp
+	<iostream>
+	<string>
+	"GameObject.h"
+
+1434482783 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\gameobjectlist.cpp
+	<iostream>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"GameObject.h"
+	"No.h"
+	"Circulo.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"GameObjectList.h"
+
+1434104728 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\no.h
+
+1434522150 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\personagem.h
+	"Bomba.h"
+
+1434479878 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\gameobjectlist.h
+	"GameObject.h"
+
+1434522320 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+	"teclado_key_down_up.h"
+	"teclado_down_up.h"
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Circulo.h"
+	"Bomba.h"
+	"Personagem.h"
+	"Barreira.h"
+	"Fase_1.h"
+	"Menu.h"
+	"Abertura.h"
+	"Monstro.h"
+
+1434409249 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\teclado_key_down_up.h
+
+1434438675 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\teclado_down_up.h
+
+1434396527 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\fase_1.h
+
+1434339220 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\menu.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\menu.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"Menu.h"
+
+1432650894 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\no.cpp
+	<iostream>
+	"GameObject.h"
+	"No.h"
+
+1434522220 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\pesonagem.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Personagem.h"
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\retangulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+
+1434409248 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\teclado_key_down_up.cpp
+	<iostream>
+	"teclado_key_down_up.h"
+
+1434511888 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.1.6\monstro.h
+	"Personagem.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\abertura.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Abertura.h"
+
+1434340528 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\abertura.h
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\barreira.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Barreira.h"
+
+1434439543 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\gameobject.h
+	<string>
+
+1434340529 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\retangulo.h
+
+1434267816 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\barreira.h
+
+1434449212 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\bomba.cpp
+	<iostream>
+	<string>
+	"Bomba.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434444474 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\bomba.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434476878 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\circulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Circulo.h"
+
+1433134550 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\circulo.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\define_allegro.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+
+1434339048 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\define_allegro.h
+
+1434251684 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\gameobject.cpp
+	<iostream>
+	<string>
+	"GameObject.h"
+
+1434523872 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\gameobjectlist.cpp
+	<iostream>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"GameObject.h"
+	"No.h"
+	"Circulo.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"GameObjectList.h"
+
+1434104728 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\no.h
+
+1434522150 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\personagem.h
+	"Bomba.h"
+
+1434479878 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\gameobjectlist.h
+	"GameObject.h"
+
+1434523972 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+	"teclado_key_down_up.h"
+	"teclado_down_up.h"
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Circulo.h"
+	"Bomba.h"
+	"Personagem.h"
+	"Barreira.h"
+	"Fase_1.h"
+	"Menu.h"
+	"Abertura.h"
+	"Monstro.h"
+
+1434409249 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\teclado_key_down_up.h
+
+1434438675 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\teclado_down_up.h
+
+1434524040 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\fase_1.h
+
+1434339220 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\menu.h
+
+1434511888 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\monstro.h
+	"Personagem.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\menu.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"Menu.h"
+
+1432650894 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\no.cpp
+	<iostream>
+	"GameObject.h"
+	"No.h"
+
+1434522220 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\pesonagem.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Personagem.h"
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\retangulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+
+1434409248 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.2\teclado_key_down_up.cpp
+	<iostream>
+	"teclado_key_down_up.h"
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\abertura.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Abertura.h"
+
+1434340528 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\abertura.h
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\barreira.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Barreira.h"
+
+1434439543 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\gameobject.h
+	<string>
+
+1434340529 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\retangulo.h
+
+1434267816 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\barreira.h
+
+1434449212 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\bomba.cpp
+	<iostream>
+	<string>
+	"Bomba.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434444474 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\bomba.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434527277 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\circulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Circulo.h"
+
+1433134550 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\circulo.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\define_allegro.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+
+1434339048 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\define_allegro.h
+
+1434251684 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\gameobject.cpp
+	<iostream>
+	<string>
+	"GameObject.h"
+
+1434526518 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\gameobjectlist.cpp
+	<iostream>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"GameObject.h"
+	"No.h"
+	"Circulo.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"GameObjectList.h"
+
+1434104728 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\no.h
+
+1434522150 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\personagem.h
+	"Bomba.h"
+
+1434526468 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\gameobjectlist.h
+	"GameObject.h"
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\menu.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"Menu.h"
+
+1434339220 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\menu.h
+
+1432650894 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\no.cpp
+	<iostream>
+	"GameObject.h"
+	"No.h"
+
+1434522220 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\pesonagem.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Personagem.h"
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\retangulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+
+1434409248 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\teclado_key_down_up.cpp
+	<iostream>
+	"teclado_key_down_up.h"
+
+1434409249 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\teclado_key_down_up.h
+
+1434526988 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+	"teclado_key_down_up.h"
+	"teclado_down_up.h"
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Circulo.h"
+	"Bomba.h"
+	"Personagem.h"
+	"Barreira.h"
+	"Fase_1.h"
+	"Menu.h"
+	"Abertura.h"
+	"Monstro.h"
+
+1434438675 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\teclado_down_up.h
+
+1434524040 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\fase_1.h
+
+1434527194 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3\monstro.h
+	"Personagem.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+
+1434340528 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\abertura.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Abertura.h"
+
+1434340528 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\abertura.h
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\barreira.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Barreira.h"
+
+1434439543 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\gameobject.h
+	<string>
+
+1434340529 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\retangulo.h
+
+1434267816 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\barreira.h
+
+1434527329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\bomba.cpp
+	<iostream>
+	<string>
+	"Bomba.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434444474 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\bomba.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1434527277 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\circulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Circulo.h"
+
+1433134550 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\circulo.h
+
+1434339048 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\define_allegro.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+
+1434339048 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\define_allegro.h
+
+1434251684 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\gameobject.cpp
+	<iostream>
+	<string>
+	"GameObject.h"
+
+1434567388 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\gameobjectlist.cpp
+	<iostream>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"GameObject.h"
+	"No.h"
+	"Circulo.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"GameObjectList.h"
+	<cmath>
+
+1434104728 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\no.h
+
+1434522150 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\personagem.h
+	"Bomba.h"
+
+1434526468 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\gameobjectlist.h
+	"GameObject.h"
+
+1434565168 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\menu.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"Menu.h"
+
+1434339220 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\menu.h
+
+1432650894 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\no.cpp
+	<iostream>
+	"GameObject.h"
+	"No.h"
+
+1434522220 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\pesonagem.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Retangulo.h"
+	"Personagem.h"
+
+1434405329 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\retangulo.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"GameObject.h"
+	"Retangulo.h"
+
+1434409248 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\teclado_key_down_up.cpp
+	<iostream>
+	"teclado_key_down_up.h"
+
+1434409249 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\teclado_key_down_up.h
+
+1434567446 source:c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"define_allegro.h"
+	"teclado_key_down_up.h"
+	"teclado_down_up.h"
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Circulo.h"
+	"Bomba.h"
+	"Personagem.h"
+	"Barreira.h"
+	"Fase_1.h"
+	"Menu.h"
+	"Abertura.h"
+	"Monstro.h"
+	"FimDoJogo.h"
+
+1434438675 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\teclado_down_up.h
+
+1434524040 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\fase_1.h
+
+1434527194 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\monstro.h
+	"Personagem.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+
+1434563376 c:\users\eliseumedeiros\documents\2 ufrn\lp i\1 - projeto final\wendel - projeto lp i\projeto lp i - v2.3.1\fimdojogo.h
+	<iostream>
+	<stdio.h>
+	<string>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"No.h"
+	"GameObjectList.h"
+	"Retangulo.h"
+	"Personagem.h"
+	"Menu.h"
+
